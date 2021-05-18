@@ -138,7 +138,6 @@ var NAVTREEINDEX0 =
 "group__CUDAWrappers.html#ggac8e56c1f8d3d4947aa030c9d14308a3bacbf52154d9874707132a9c12cfa2383e":[1,0,3,0,6],
 "group__Exceptions.html#ga01adbbdc5056b89fc67a493ad3af9fc7":[1,0,12,25],
 "group__Exceptions.html#ga056d78564708ec422d408c360503c061":[1,0,12,24],
-"group__Exceptions.html#ga064f3dfeab2277b599e0eaba4c48c39c":[1,0,21,23,4],
 "group__Exceptions.html#ga0aa747e8b7b04063843fb90805d481a1":[1,0,12,17],
 "group__Exceptions.html#ga0afe68b498005146071a9aaada9d8dcd":[1,0,50,9],
 "group__Exceptions.html#ga0d685aad996180f9851183ae3e29019a":[1,0,50,10],
@@ -178,7 +177,6 @@ var NAVTREEINDEX0 =
 "group__Exceptions.html#ga4c22c86ff89575667de2ca9778aa28e5":[1,0,50,6],
 "group__Exceptions.html#ga4cb8ac2354150d4d873e7505363bc97c":[1,0,18,11],
 "group__Exceptions.html#ga4d7858065f7ee3b63e8148aff122042d":[1,0,26,5],
-"group__Exceptions.html#ga4e7eec04671eb372aad03f529d2148eb":[1,0,21,23,5],
 "group__Exceptions.html#ga4e888eb1129c0c9f64687e3670df37be":[1,0,21,23,9],
 "group__Exceptions.html#ga4f5f4abcf7d58a5710c20a8da9a1c10d":[1,0,50,30],
 "group__Exceptions.html#ga55e49026ef790fdd5ae987392f445c5c":[1,0,20,44],
@@ -249,5 +247,7 @@ var NAVTREEINDEX0 =
 "group__Exceptions.html#gae8121c6d673f46d7e5ead16e57876e20":[1,0,50,7],
 "group__Exceptions.html#gae8ac56a2e09bbae6ad32e47547767748":[1,0,50,25],
 "group__Exceptions.html#gae9a45f517af1401c50811a11083f9114":[1,0,50,20],
-"group__Exceptions.html#gae9a5fbbdd7ffe18e61bf76b61744a7c7":[1,0,21,23,8]
+"group__Exceptions.html#gaeb2c89376f02c275627e3356f5ade07b":[1,0,8,32],
+"group__Exceptions.html#gaedbba1448cb1d1c4a34ab973974ec960":[1,0,25,1],
+"group__Exceptions.html#gaeefbc9972874714f747ac11713165c4a":[1,0,9,20]
 };
